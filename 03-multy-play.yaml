@@ -10,4 +10,4 @@
   tasks:
   - name: play-2 and task-2 
     ansible.builtin.debug:
-      msg: "hellow iam play-2 and task-2"
+      msg: "hellow iam play-2 and task-1"
