@@ -10,7 +10,8 @@
       DevOps: 3
       AWS: 2
       Docker: 4
-    RealProject: trus # boolin like 'true or false'
+    RealProject: true # boolin like 'true or false'
+
   tasks:
   - name: print variables
     ansible.builtin.debug:
